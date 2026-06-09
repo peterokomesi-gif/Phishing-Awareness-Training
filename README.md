@@ -22,7 +22,7 @@ The Phishing Awareness Training Platform provides an engaging learning environme
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Educate users about phishing attacks
 * Raise cybersecurity awareness
@@ -33,16 +33,16 @@ The Phishing Awareness Training Platform provides an engaging learning environme
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📊 Dashboard
+###  Dashboard
 
 * Training overview
 * Progress tracking
 * Quiz score display
 * Certification status
 
-### 📚 Learning Modules
+###  Learning Modules
 
 * Introduction to Phishing
 * Email Phishing
@@ -53,40 +53,40 @@ The Phishing Awareness Training Platform provides an engaging learning environme
 * Fake Websites
 * Prevention Techniques
 
-### 🃏 Interactive Flashcards
+### Interactive Flashcards
 
 * Cybersecurity terminology
 * Phishing concepts
 * Threat awareness
 * Click-to-flip functionality
 
-### 🎮 Phishing Email Simulator
+###  Phishing Email Simulator
 
 * Realistic phishing scenarios
 * Suspicious email identification
 * Threat recognition exercises
 
-### 📝 Interactive Quiz
+### Interactive Quiz
 
 * Multiple-choice questions
 * Instant scoring
 * Awareness assessment
 * Performance tracking
 
-### 🏆 Achievement System
+###  Achievement System
 
 * Beginner Defender
 * Phishing Hunter
 * Security Champion
 * Cyber Guardian
 
-### 📜 Certificate Generator
+### Certificate Generator
 
 * Personalized certificate
 * Training completion verification
 * Printable certificate output
 
-### 📱 Responsive Design
+### Responsive Design
 
 * Desktop support
 * Tablet support
@@ -94,7 +94,7 @@ The Phishing Awareness Training Platform provides an engaging learning environme
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 ### Dashboard
 
@@ -114,7 +114,7 @@ Creates personalized completion certificates.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -137,7 +137,7 @@ Creates personalized completion certificates.
 
 ---
 
-## 🎨 Design Features
+## Design Features
 
 * Dark Cybersecurity Theme
 * Modern Dashboard Interface
@@ -147,7 +147,7 @@ Creates personalized completion certificates.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 phishing-awareness-app/
@@ -166,7 +166,7 @@ phishing-awareness-app/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
@@ -206,7 +206,7 @@ After completing the training, users will be able to:
 
 ---
 
-## 🔒 Cybersecurity Topics Covered
+## Cybersecurity Topics Covered
 
 * Phishing
 * Spear Phishing
@@ -221,7 +221,7 @@ After completing the training, users will be able to:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 Planned enhancements include:
 
@@ -238,7 +238,7 @@ Planned enhancements include:
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Contributions, suggestions, and improvements are welcome.
 
@@ -246,13 +246,13 @@ Fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for educational and cybersecurity awareness purposes.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 [Your Name]
 
@@ -262,7 +262,7 @@ Cybersecurity Internship Project
 
 ---
 
-## 🛡️ Motto
+## Motto
 
 "Think Before You Click. Stay Alert. Stay Secure."
 
