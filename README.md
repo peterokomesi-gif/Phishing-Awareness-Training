@@ -1,6 +1,6 @@
 
 
-# 🛡️ Phishing Awareness Training Platform
+#  Phishing Awareness Training Platform
 
 A modern cybersecurity awareness web application designed to educate users about phishing attacks, social engineering techniques, and online safety best practices.
 
@@ -8,7 +8,7 @@ This project was developed as part of a Cybersecurity Internship Project to help
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Phishing remains one of the most common cyber threats affecting individuals and organizations worldwide. Attackers use deceptive emails, fake websites, and social engineering tactics to steal sensitive information such as passwords, banking details, and personal data.
 
