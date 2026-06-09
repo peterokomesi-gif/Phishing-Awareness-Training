@@ -6,6 +6,9 @@ A modern cybersecurity awareness web application designed to educate users about
 
 This project was developed as part of a Cybersecurity Internship Project to help users identify, analyze, and defend against phishing threats through interactive learning modules, flashcards, simulations, quizzes, and certification.
 
+Project url link
+https://phishingtraningapp.netlify.app/
+
 ---
 
 ##  Project Overview
