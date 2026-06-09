@@ -1,15 +1,4 @@
-🛡 CODEALPHA CYBERSECURITY AWARENESS
-PHISHING AWARENESS
-TRAINING PROJECT
-――――――――――――――――――――
 
-Title:	Phishing Awareness Training System
-Intern Name:	Peter Okomesi
-Organization:	[CodeAlpha]
-Department:	Cybersecurity 
-STUDENT ID:	[CA/DF1/69342]
-Duration:	[10th May] — [10th June]
-Submission Date:	May-June
 
 # 🛡️ Phishing Awareness Training Platform
 
